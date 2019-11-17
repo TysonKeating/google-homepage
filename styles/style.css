@@ -29,13 +29,15 @@ img {
     background-color: white;
     border: none;
     position: absolute;
-    left: 78%;
+    left: 75%;
+    top: 2%;
 }
 .c4 {
     background-color: white;
     border: none;
     position: absolute;
-    left: 83%;
+    left: 80%;
+    top: 2%;
 }
 .c5 {
     background-color: whitesmoke;
@@ -83,6 +85,16 @@ input[type=text] {
 }
 #google-apps {
     position: absolute;
-    left: 89%;
-    top: -26.5%;
+    left: 86%;
+    top: -25.5%;
+}
+.c7 {
+    background-color: rgb(4, 142, 255);
+    color: white;
+    border-color: rgb(4, 142, 255);
+    position: absolute; 
+    left: 90%;
+    padding: 5px 5px;
+    font-size: large;
+    font-weight: bold;
 }
