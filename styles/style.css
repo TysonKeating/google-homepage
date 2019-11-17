@@ -29,13 +29,13 @@ img {
     background-color: white;
     border: none;
     position: absolute;
-    left: 82%;
+    left: 78%;
 }
 .c4 {
     background-color: white;
     border: none;
     position: absolute;
-    left: 87%;
+    left: 83%;
 }
 .c5 {
     background-color: whitesmoke;
@@ -80,4 +80,9 @@ input[type=text] {
     position: absolute;
     left: 23.5%;
     top: 15.25%;
+}
+#google-apps {
+    position: absolute;
+    left: 89%;
+    top: -26.5%;
 }
