@@ -69,10 +69,15 @@ img {
     background-color: rgb(255, 255, 255);
     color: gray;
 }
-.s1 {
+input[type=text] {
     position: absolute;
     left: 22%;
     top: 41%;
-    width: 50%;
-    padding: 10px 30px;
+    width: 48%;
+    padding: 10px 40px;
+}
+#search-icon {
+    position: absolute;
+    left: 23.5%;
+    top: 15.25%;
 }
