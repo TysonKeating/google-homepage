@@ -77,11 +77,12 @@ input[type=text] {
     top: 41%;
     width: 48%;
     padding: 10px 40px;
+    border-radius: 20px;
 }
 #search-icon {
     position: absolute;
     left: 23.5%;
-    top: 15.25%;
+    top: 15.5%;
 }
 #google-apps {
     position: absolute;
