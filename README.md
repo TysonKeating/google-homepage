@@ -1,0 +1,1 @@
+In this project I aim to create my own webpage in the likeness of the Google.com homepage.
