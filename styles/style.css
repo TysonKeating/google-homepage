@@ -42,8 +42,12 @@ img {
     color: gray;
     position:absolute;
     transition: .5s ease;
-    top: 45%;
+    top: 47%;
     left: 35%;
+}
+.c5:hover {
+    background-color: white;
+    color: grey;
 }
 .c6 {
     background-color: whitesmoke;
@@ -54,6 +58,10 @@ img {
     color: gray;
     position:absolute;
     transition: .5s ease;
-    top: 45%;
-    left: 51%;
+    top: 47%;
+    left: 50%;
+}
+.c6:hover {
+    background-color: rgb(255, 255, 255);
+    color: gray;
 }
