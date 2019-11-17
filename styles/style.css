@@ -40,6 +40,10 @@ img {
     border-radius: 8px;
     border: thin;
     color: gray;
+    position:absolute;
+    transition: .5s ease;
+    top: 45%;
+    left: 35%;
 }
 .c6 {
     background-color: whitesmoke;
@@ -48,4 +52,8 @@ img {
     border-radius: 8px;
     border: thin;
     color: gray;
+    position:absolute;
+    transition: .5s ease;
+    top: 45%;
+    left: 51%;
 }
