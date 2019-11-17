@@ -1,0 +1,51 @@
+html {
+    font-size: 15px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+}
+.button-group1 {
+    background-color: green;
+    color: indigo;
+    display: inline-block;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 15px 32px;
+}
+.c1 {
+    background-color: white;
+    border: none;
+}
+.c2 {
+    background-color: white;
+    border: none;
+}
+.c3 {
+    background-color: white;
+    border: none;
+}
+.c4 {
+    background-color: white;
+    border: none;
+}
+.c5 {
+    background-color: whitesmoke;
+    font-size: 15px;
+    padding: 5px 15px;
+    border-radius: 8px;
+    border: thin;
+    color: gray;
+}
+.c6 {
+    background-color: whitesmoke;
+    font-size: 15px;
+    padding: 5px 15px;
+    border-radius: 8px;
+    border: thin;
+    color: gray;
+}
